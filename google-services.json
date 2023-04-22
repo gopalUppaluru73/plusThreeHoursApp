@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589631829188",
+    "firebase_url": "https://superbowlapp-50e05-default-rtdb.firebaseio.com",
+    "project_id": "superbowlapp-50e05",
+    "storage_bucket": "superbowlapp-50e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589631829188:android:4c8c68a3e9ab3a25fb4591",
+        "android_client_info": {
+          "package_name": "com.superbowl.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589631829188-kdjhtkvq491kt6glm4cm2vek86s9o88g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXLKaqBAfMuHMhaGQHS7zjXmJFJeC8hZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589631829188-kdjhtkvq491kt6glm4cm2vek86s9o88g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589631829188-mvv3iel6g70jdb6dlvpc0vk0gaeggn36.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.superbowl.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
